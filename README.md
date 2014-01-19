@@ -1,0 +1,4 @@
+mosaic
+======
+
+Creates mosaic images
